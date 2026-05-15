@@ -33,5 +33,11 @@ As we need all types of file conversions, that is why we need all in your enviro
 5. Markdown text converted files will be added in output folder the output created by library is also present as an example.
 6. Please use project wisely.
 
+## Use Cases
+1. Bulk convert files on topic of some domain. (academia, cyber security, your custom files).
+2. Make embeddings of your files using AI (LM Studio ==> Embedding Model ==> Qdrant embeddings)
+3. Convert your query + file embeddings (A Best RAG pipeline) to learn and gain knowledge.
+4. More similar projects comming soon.
+
 ## License:
 MIT. I don't know what MIT is, If Microsoft have not any problems using their library, i don't have too.
